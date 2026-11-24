@@ -1,0 +1,542 @@
+[
+  {
+    "itemName": "마법인형: 돌 골렘",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5416",
+    "buffType": "돌 골렘",
+    "image": "magicdoll-20439.png",
+    "effectText": "대미지 감소+1"
+  },
+  {
+    "itemName": "마법인형: 늑대인간",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5222",
+    "buffType": "늑대인간",
+    "image": "magicdoll-20440.png",
+    "effectText": "근거리 공격 시 일정 확률로 추가 대미지+15"
+  },
+  {
+    "itemName": "마법인형: 버그베어",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5223",
+    "buffType": "버그베어",
+    "image": "magicdoll-20441.png",
+    "effectText": "소지 무게 증가+500"
+  },
+  {
+    "itemName": "마법인형: 크러스트시안",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5415",
+    "buffType": "크러스트시안",
+    "image": "magicdoll-20442.png",
+    "effectText": "원거리 공격 시 일정 확률로 추가 대미지+15"
+  },
+  {
+    "itemName": "마법인형: 에티",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$6416",
+    "buffType": "에티",
+    "image": "magicdoll-20443.png",
+    "effectText": "AC-3, 마법 치명타+1%"
+  },
+  {
+    "itemName": "마법인형: 목각",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5593",
+    "buffType": "목각",
+    "image": "magicdoll-20444.png",
+    "effectText": "최대 HP+50"
+  },
+  {
+    "itemName": "마법인형: 서큐버스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5224",
+    "buffType": "서큐버스",
+    "image": "magicdoll-20445.png",
+    "effectText": "64초당 MP 회복+15"
+  },
+  {
+    "itemName": "마법인형: 장로",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5414",
+    "buffType": "장로",
+    "image": "magicdoll-20446.png",
+    "effectText": "64초당 MP 회복+15"
+  },
+  {
+    "itemName": "마법인형: 코카트리스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$7510",
+    "buffType": "코카트리스",
+    "image": "magicdoll-20447.png",
+    "effectText": "원거리 대미지+1, 원거리 명중+1"
+  },
+  {
+    "itemName": "마법인형: 눈사람",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$10130",
+    "buffType": "눈사람",
+    "image": "magicdoll-20448.png",
+    "effectText": "근거리 대미지+1, 근거리 명중+1"
+  },
+  {
+    "itemName": "마법인형: 인어",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$11452",
+    "buffType": "인어",
+    "image": "magicdoll-20449.png",
+    "effectText": "경험치 보너스+5%"
+  },
+  {
+    "itemName": "마법인형: 라바 골렘",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5594",
+    "buffType": "라바 골렘",
+    "image": "magicdoll-20450.png",
+    "effectText": "근거리 대미지+1, 대미지 감소+1"
+  },
+  {
+    "itemName": "마법인형: 자이언트",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$20465",
+    "buffType": "자이언트",
+    "image": "magicdoll-20451.png",
+    "effectText": "경험치 보너스+10%, 대미지 감소+1"
+  },
+  {
+    "itemName": "마법인형: 흑장로",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$20475",
+    "buffType": "흑장로",
+    "image": "magicdoll-20452.png",
+    "effectText": "64초당 MP 회복+15, 일정확률 콜 라이트닝 발동"
+  },
+  {
+    "itemName": "마법인형: 서큐버스 퀸",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$20476",
+    "buffType": "서큐버스 퀸",
+    "image": "magicdoll-20453.png",
+    "effectText": "64초당 MP 회복+15, SP+1"
+  },
+  {
+    "itemName": "마법인형: 드레이크",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$12854",
+    "buffType": "드레이크",
+    "image": "magicdoll-20454.png",
+    "effectText": "원거리 대미지+2, 64초당 MP 회복+6"
+  },
+  {
+    "itemName": "마법인형: 안타라스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5609",
+    "buffType": "안타라스",
+    "image": "magicdoll-web-42.png",
+    "effectText": "대미지 감소+6, 경험치 보너스+25%, 64초당 MP 회복+15"
+  },
+  {
+    "itemName": "마법인형: 킹 버그베어",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5595",
+    "buffType": "킹 버그베어",
+    "image": "magicdoll-20455.png",
+    "effectText": "스턴 내성+8, 64초당 MP 회복+10"
+  },
+  {
+    "itemName": "마법인형: 다이아몬드 골렘",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5596",
+    "buffType": "다이아몬드 골렘",
+    "image": "magicdoll-20456.png",
+    "effectText": "대미지 감소+2, PvP 대미지 감소+1"
+  },
+  {
+    "itemName": "마법인형: 리치",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$15581",
+    "buffType": "리치",
+    "image": "magicdoll-web-26.png",
+    "effectText": "SP+2, 최대 HP+80"
+  },
+  {
+    "itemName": "마법인형: 사이클롭스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$20464",
+    "buffType": "사이클롭스",
+    "image": "magicdoll-web-29.png",
+    "effectText": "근거리 대미지+2, 근거리 명중+2, 스턴 내성+12"
+  },
+  {
+    "itemName": "마법인형: 나이트발드",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5597",
+    "buffType": "나이트발드",
+    "image": "magicdoll-web-25.png",
+    "effectText": "근거리 대미지+2, 근거리 명중+2, 스턴 명중+5"
+  },
+  {
+    "itemName": "마법인형: 시어",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5598",
+    "buffType": "시어",
+    "image": "magicdoll-web-30.png",
+    "effectText": "원거리 대미지+5, 32초당 HP 회복+30"
+  },
+  {
+    "itemName": "마법인형: 아이리스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5599",
+    "buffType": "아이리스",
+    "image": "magicdoll-web-31.png",
+    "effectText": "PvP 대미지+5, 대미지 감소+3"
+  },
+  {
+    "itemName": "마법인형: 뱀파이어",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5600",
+    "buffType": "뱀파이어",
+    "image": "magicdoll-web-27.png",
+    "effectText": "PvP 대미지+3, 32초당 HP 회복+30"
+  },
+  {
+    "itemName": "마법인형: 머미로드",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5601",
+    "buffType": "머미로드",
+    "image": "magicdoll-web-28.png",
+    "effectText": "대미지 감소+2, 64초당 MP 회복+5, 경험치보너스+15"
+  },
+  {
+    "itemName": "마법인형: 데몬",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5602",
+    "buffType": "데몬",
+    "image": "magicdoll-web-32.png",
+    "effectText": "스턴 명중+10, 스턴 내성+12"
+  },
+  {
+    "itemName": "마법인형: 데스나이트",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5603",
+    "buffType": "데스나이트",
+    "image": "magicdoll-web-33.png",
+    "effectText": "대미지 감소+5, 경험치 보너스+20%, 일정확률 헬파이어 발동"
+  },
+  {
+    "itemName": "마법인형: 바란카",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5604",
+    "buffType": "바란카",
+    "image": "magicdoll-web-34.png",
+    "effectText": "스턴 내성+10, 근거리/원거리 치명타+10%"
+  },
+  {
+    "itemName": "마법인형: 타락",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5605",
+    "buffType": "타락",
+    "image": "magicdoll-web-38.png",
+    "effectText": "스턴 내성+10, SP+3, 마법 명중+5"
+  },
+  {
+    "itemName": "마법인형: 바포메트",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5606",
+    "buffType": "바포메트",
+    "image": "magicdoll-web-35.png",
+    "effectText": "스턴 내성+10, 마법 치명타+5%, 마법 대미지+2"
+  },
+  {
+    "itemName": "마법인형: 얼음여왕",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5607",
+    "buffType": "얼음여왕",
+    "image": "magicdoll-web-36.png",
+    "effectText": "원거리 대미지+5, 원거리 명중+5, 스턴 내성+10"
+  },
+  {
+    "itemName": "마법인형: 커츠",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5608",
+    "buffType": "커츠",
+    "image": "magicdoll-web-37.png",
+    "effectText": "추가 대미지+3, 대미지 감소+3, 스턴 내성+10"
+  },
+  {
+    "itemName": "마법인형: 파푸리온",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5610",
+    "buffType": "파푸리온",
+    "image": "magicdoll-web-41.png",
+    "effectText": "SP+4, 마법 명중+8, 스턴 내성+8, 64초당 MP 회복+5"
+  },
+  {
+    "itemName": "마법인형: 린드비오르",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5611",
+    "buffType": "린드비오르",
+    "image": "magicdoll-web-40.png",
+    "effectText": "원거리 대미지+4, 원거리 명중+8, 원거리 치명타+5%, 스턴 내성+8, 64초당 MP 회복+5"
+  },
+  {
+    "itemName": "마법인형: 발라카스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "$5612",
+    "buffType": "발라카스",
+    "image": "magicdoll-web-39.png",
+    "effectText": "근거리 대미지+4, 근거리 명중+8, 근거리 치명타+5%, 스턴 명중+10, 64초당 MP 회복+5"
+  },
+  {
+    "itemName": "마법인형: 군주",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 군주",
+    "buffType": "군주",
+    "image": "magicdoll-class-군주.png",
+    "effectText": "대미지 감소+8, 경험치 보너스+45%, 64초당 MP 회복+15, PvP 대미지+5"
+  },
+  {
+    "itemName": "마법인형: 기사",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 기사",
+    "buffType": "기사",
+    "image": "magicdoll-class-기사.png",
+    "effectText": "근거리 대미지+5, 근거리 명중+8, 근거리 치명타+5%, 스턴 명중+10, 64초당 MP 회복+5, 경험치 보너스+20%, PvP 대미지+5"
+  },
+  {
+    "itemName": "마법인형: 요정",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 요정",
+    "buffType": "요정",
+    "image": "magicdoll-class-요정.png",
+    "effectText": "원거리 대미지+5, 원거리 명중+8, 원거리 치명타+5%, 스턴 내성+8, 64초당 MP 회복+5, 경험치 보너스+20%, PvP 대미지+5"
+  },
+  {
+    "itemName": "마법인형: 마법사",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 마법사",
+    "buffType": "마법사",
+    "image": "magicdoll-class-마법사.png",
+    "effectText": "SP+6, 마법 명중+8, 스턴 내성+8, 64초당 MP 회복+5, 경험치 보너스+20%, INT+2"
+  },
+  {
+    "itemName": "마법인형: 진 군주",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 진 군주",
+    "buffType": "진 군주",
+    "image": "magicdoll-class-군주.png",
+    "effectText": "대미지 감소+10, 경험치 보너스+65%, 64초당 MP 회복+15, PvP 대미지+10"
+  },
+  {
+    "itemName": "마법인형: 진 기사",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 진 기사",
+    "buffType": "진 기사",
+    "image": "magicdoll-class-기사.png",
+    "effectText": "근거리 대미지+6, 근거리 명중+8, 근거리 치명타+5%, 스턴 명중+10, 64초당 MP 회복+5, 경험치 보너스+40%, PvP 대미지+10"
+  },
+  {
+    "itemName": "마법인형: 진 요정",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 진 요정",
+    "buffType": "진 요정",
+    "image": "magicdoll-class-요정.png",
+    "effectText": "원거리 대미지+6, 원거리 명중+8, 원거리 치명타+5%, 스턴 내성+8, 64초당 MP 회복+5, 경험치 보너스+40%, PvP 대미지+10"
+  },
+  {
+    "itemName": "마법인형: 진 마법사",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법인형: 진 마법사",
+    "buffType": "진 마법사",
+    "image": "magicdoll-class-마법사.png",
+    "effectText": "SP+8, 마법 명중+8, 스턴 내성+8, 64초당 MP 회복+5, 경험치 보너스+40%, INT+4"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 발라카스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 발라카스",
+    "buffType": "각성 발라카스",
+    "image": "magicdoll-web-39.png",
+    "effectText": "근거리 대미지+10, 근거리 명중+10, 근거리 치명타+7%, 스턴 명중+15, 64초당 MP 회복+15, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 안타라스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 안타라스",
+    "buffType": "각성 안타라스",
+    "image": "magicdoll-web-42.png",
+    "effectText": "스턴 내성+10, 대미지 감소+10, 경험치 보너스+50%, 64초당 MP 회복+20"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 파푸리온",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 파푸리온",
+    "buffType": "각성 파푸리온",
+    "image": "magicdoll-web-41.png",
+    "effectText": "SP+10, 마법 명중+10, 스턴 내성+10, 64초당 MP 회복+30, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 린드비오르",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 린드비오르",
+    "buffType": "각성 린드비오르",
+    "image": "magicdoll-web-40.png",
+    "effectText": "원거리 대미지+10, 원거리 명중+10, 원거리 치명타+10%, 스턴 내성+10, 64초당 MP 회복+15, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 린드비오르(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 린드비오르",
+    "buffType": "각성 린드비오르",
+    "image": "magicdoll-web-40.png",
+    "effectText": "원거리 대미지+10, 원거리 명중+10, 원거리 치명타+10%, 스턴 내성+10, 64초당 MP 회복+15, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 발라카스(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 발라카스",
+    "buffType": "각성 발라카스",
+    "image": "magicdoll-web-39.png",
+    "effectText": "근거리 대미지+10, 근거리 명중+10, 근거리 치명타+7%, 스턴 명중+15, 64초당 MP 회복+15, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 안타라스(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 안타라스",
+    "buffType": "각성 안타라스",
+    "image": "magicdoll-web-42.png",
+    "effectText": "스턴 내성+10, 대미지 감소+10, 경험치 보너스+50%, 64초당 MP 회복+20"
+  },
+  {
+    "itemName": "마법인형[5]: 각성 파푸리온(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "각성 파푸리온",
+    "buffType": "각성 파푸리온",
+    "image": "magicdoll-web-41.png",
+    "effectText": "SP+10, 마법 명중+10, 스턴 내성+10, 64초당 MP 회복+30, 경험치 보너스+30%"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 린드비오르",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 린드비오르",
+    "buffType": "마법확률 린드비오르",
+    "image": "magicdoll-web-40.png",
+    "effectText": "원거리 대미지+10, 원거리 명중+10, 원거리 치명타+10%, 스턴 내성+10, 64초당 MP 회복+15, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 발라카스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 발라카스",
+    "buffType": "마법확률 발라카스",
+    "image": "magicdoll-web-39.png",
+    "effectText": "근거리 대미지+10, 근거리 명중+10, 근거리 치명타+7%, 스턴 명중+15, 64초당 MP 회복+15, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 파푸리온",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 파푸리온",
+    "buffType": "마법확률 파푸리온",
+    "image": "magicdoll-web-41.png",
+    "effectText": "SP+10, 마법 명중+10, 스턴 내성+10, 64초당 MP 회복+30, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 안타라스",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 안타라스",
+    "buffType": "마법확률 안타라스",
+    "image": "magicdoll-web-42.png",
+    "effectText": "스턴 내성+10, 대미지 감소+10, 경험치 보너스+50%, 64초당 MP 회복+20, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 린드비오르(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 린드비오르",
+    "buffType": "마법확률 린드비오르",
+    "image": "magicdoll-web-40.png",
+    "effectText": "원거리 대미지+10, 원거리 명중+10, 원거리 치명타+10%, 스턴 내성+10, 64초당 MP 회복+15, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 발라카스(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 발라카스",
+    "buffType": "마법확률 발라카스",
+    "image": "magicdoll-web-39.png",
+    "effectText": "근거리 대미지+10, 근거리 명중+10, 근거리 치명타+7%, 스턴 명중+15, 64초당 MP 회복+15, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 파푸리온(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 파푸리온",
+    "buffType": "마법확률 파푸리온",
+    "image": "magicdoll-web-41.png",
+    "effectText": "SP+10, 마법 명중+10, 스턴 내성+10, 64초당 MP 회복+30, 경험치 보너스+30%, 10%확률로 마법 공격"
+  },
+  {
+    "itemName": "마법인형[5]: 마법확률 각성 안타라스(1일)",
+    "material": "결정체",
+    "materialCount": 0,
+    "dollName": "마법확률 안타라스",
+    "buffType": "마법확률 안타라스",
+    "image": "magicdoll-web-42.png",
+    "effectText": "스턴 내성+10, 대미지 감소+10, 경험치 보너스+50%, 64초당 MP 회복+20, 10%확률로 마법 공격"
+  }
+]
